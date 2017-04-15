@@ -1,0 +1,931 @@
+<polygons numOfPolygons ="43">
+
+<polygon>
+	<numOfVertices>7</numOfVertices>
+	<x0>541.73834</x0>
+	<y0>372.24136</y0>
+	<x1>472.57492</x1>
+	<y1>374.2328</y1>
+	<x2>446.8654</x2>
+	<y2>399.613</y2>
+	<x3>449.5918</x3>
+	<y3>437.40436</y3>
+	<x4>488.55475</x4>
+	<y4>498.77457</y4>
+	<x5>520.7986</x5>
+	<y5>503.8105</y5>
+	<x6>576.8313</x6>
+	<y6>439.94678</y6>
+	<numOfAdjacent>7</numOfAdjacent>
+	<adj0>1</adj0>
+	<adj1>2</adj1>
+	<adj2>3</adj2>
+	<adj3>4</adj3>
+	<adj4>5</adj4>
+	<adj5>6</adj5>
+	<adj6>8</adj6>
+</polygon>
+
+<polygon>
+	<numOfVertices>5</numOfVertices>
+	<x0>449.5918</x0>
+	<y0>437.40436</y0>
+	<x1>377.50012</x1>
+	<y1>483.76035</y1>
+	<x2>391.39542</x2>
+	<y2>557.34143</y2>
+	<x3>419.65985</x3>
+	<y3>564.2016</y3>
+	<x4>488.55475</x4>
+	<y4>498.77457</y4>
+	<numOfAdjacent>5</numOfAdjacent>
+	<adj0>0</adj0>
+	<adj1>3</adj1>
+	<adj2>7</adj2>
+	<adj3>8</adj3>
+	<adj4>9</adj4>
+</polygon>
+
+<polygon>
+	<numOfVertices>6</numOfVertices>
+	<x0>621.9568</x0>
+	<y0>445.12018</y0>
+	<x1>576.8313</x1>
+	<y1>439.94678</y1>
+	<x2>520.7986</x2>
+	<y2>503.8105</y2>
+	<x3>558.09973</x3>
+	<y3>578.4797</y3>
+	<x4>617.2925</x4>
+	<y4>565.2405</y4>
+	<x5>639.071</x5>
+	<y5>479.56915</y5>
+	<numOfAdjacent>6</numOfAdjacent>
+	<adj0>0</adj0>
+	<adj1>3</adj1>
+	<adj2>4</adj2>
+	<adj3>14</adj3>
+	<adj4>18</adj4>
+	<adj5>36</adj5>
+</polygon>
+
+<polygon>
+	<numOfVertices>6</numOfVertices>
+	<x0>558.09973</x0>
+	<y0>578.4797</y0>
+	<x1>520.7986</x1>
+	<y1>503.8105</y1>
+	<x2>488.55475</x2>
+	<y2>498.77457</y2>
+	<x3>419.65985</x3>
+	<y3>564.2016</y3>
+	<x4>450.2249</x4>
+	<y4>626.1898</y4>
+	<x5>527.4514</x5>
+	<y5>627.64453</y5>
+	<numOfAdjacent>6</numOfAdjacent>
+	<adj0>0</adj0>
+	<adj1>1</adj1>
+	<adj2>2</adj2>
+	<adj3>9</adj3>
+	<adj4>18</adj4>
+	<adj5>32</adj5>
+</polygon>
+
+<polygon>
+	<numOfVertices>7</numOfVertices>
+	<x0>650.7349</x0>
+	<y0>316.51993</y0>
+	<x1>606.8787</x1>
+	<y1>299.03445</y1>
+	<x2>560.4955</x2>
+	<y2>320.96875</y2>
+	<x3>541.73834</x3>
+	<y3>372.24136</y3>
+	<x4>576.8313</x4>
+	<y4>439.94678</y4>
+	<x5>621.9568</x5>
+	<y5>445.12018</y5>
+	<x6>670.15015</x6>
+	<y6>373.87662</y6>
+	<numOfAdjacent>7</numOfAdjacent>
+	<adj0>0</adj0>
+	<adj1>2</adj1>
+	<adj2>5</adj2>
+	<adj3>15</adj3>
+	<adj4>17</adj4>
+	<adj5>36</adj5>
+	<adj6>41</adj6>
+</polygon>
+
+<polygon>
+	<numOfVertices>6</numOfVertices>
+	<x0>560.4955</x0>
+	<y0>320.96875</y0>
+	<x1>497.05725</x1>
+	<y1>254.17682</y1>
+	<x2>468.01605</x2>
+	<y2>250.74303</y2>
+	<x3>437.46964</x3>
+	<y3>294.235</y3>
+	<x4>472.57492</x4>
+	<y4>374.2328</y4>
+	<x5>541.73834</x5>
+	<y5>372.24136</y5>
+	<numOfAdjacent>5</numOfAdjacent>
+	<adj0>0</adj0>
+	<adj1>4</adj1>
+	<adj2>6</adj2>
+	<adj3>12</adj3>
+	<adj4>17</adj4>
+</polygon>
+
+<polygon>
+	<numOfVertices>6</numOfVertices>
+	<x0>472.57492</x0>
+	<y0>374.2328</y0>
+	<x1>437.46964</x1>
+	<y1>294.235</y1>
+	<x2>371.42853</x2>
+	<y2>282.83105</y2>
+	<x3>339.56488</x3>
+	<y3>316.29065</y3>
+	<x4>357.2379</x4>
+	<y4>372.09985</y4>
+	<x5>446.8654</x5>
+	<y5>399.613</y5>
+	<numOfAdjacent>6</numOfAdjacent>
+	<adj0>0</adj0>
+	<adj1>5</adj1>
+	<adj2>8</adj2>
+	<adj3>10</adj3>
+	<adj4>11</adj4>
+	<adj5>12</adj5>
+</polygon>
+
+<polygon>
+	<numOfVertices>6</numOfVertices>
+	<x0>377.50012</x0>
+	<y0>483.76035</y0>
+	<x1>344.1399</x1>
+	<y1>470.73218</y1>
+	<x2>285.55923</x2>
+	<y2>500.00055</y2>
+	<x3>274.7743</x3>
+	<y3>550.6736</y3>
+	<x4>323.2358</x4>
+	<y4>597.28564</y4>
+	<x5>391.39542</x5>
+	<y5>557.34143</y5>
+	<numOfAdjacent>5</numOfAdjacent>
+	<adj0>1</adj0>
+	<adj1>8</adj1>
+	<adj2>9</adj2>
+	<adj3>13</adj3>
+	<adj4>29</adj4>
+</polygon>
+
+<polygon>
+	<numOfVertices>6</numOfVertices>
+	<x0>446.8654</x0>
+	<y0>399.613</y0>
+	<x1>357.2379</x1>
+	<y1>372.09985</y1>
+	<x2>327.3207</x2>
+	<y2>408.9592</y2>
+	<x3>344.1399</x3>
+	<y3>470.73218</y3>
+	<x4>377.50012</x4>
+	<y4>483.76035</y4>
+	<x5>449.5918</x5>
+	<y5>437.40436</y5>
+	<numOfAdjacent>6</numOfAdjacent>
+	<adj0>0</adj0>
+	<adj1>1</adj1>
+	<adj2>6</adj2>
+	<adj3>7</adj3>
+	<adj4>11</adj4>
+	<adj5>13</adj5>
+</polygon>
+
+<polygon>
+	<numOfVertices>7</numOfVertices>
+	<x0>419.65985</x0>
+	<y0>564.2016</y0>
+	<x1>391.39542</x1>
+	<y1>557.34143</y1>
+	<x2>323.2358</x2>
+	<y2>597.28564</y2>
+	<x3>301.5253</x3>
+	<y3>660.21027</y3>
+	<x4>333.29312</x4>
+	<y4>700.3242</y4>
+	<x5>415.71408</x5>
+	<y5>689.9451</y5>
+	<x6>450.2249</x6>
+	<y6>626.1898</y6>
+	<numOfAdjacent>7</numOfAdjacent>
+	<adj0>1</adj0>
+	<adj1>3</adj1>
+	<adj2>7</adj2>
+	<adj3>29</adj3>
+	<adj4>31</adj4>
+	<adj5>32</adj5>
+	<adj6>38</adj6>
+</polygon>
+
+<polygon>
+	<numOfVertices>6</numOfVertices>
+	<x0>371.42853</x0>
+	<y0>282.83105</y0>
+	<x1>348.3966</x1>
+	<y1>205.33633</y1>
+	<x2>284.53613</x2>
+	<y2>196.08786</y2>
+	<x3>245.96097</x3>
+	<y3>246.9799</y3>
+	<x4>269.34326</x4>
+	<y4>303.96317</y4>
+	<x5>339.56488</x5>
+	<y5>316.29065</y5>
+	<numOfAdjacent>4</numOfAdjacent>
+	<adj0>6</adj0>
+	<adj1>11</adj1>
+	<adj2>12</adj2>
+	<adj3>20</adj3>
+</polygon>
+
+<polygon>
+	<numOfVertices>6</numOfVertices>
+	<x0>339.56488</x0>
+	<y0>316.29065</y0>
+	<x1>269.34326</x1>
+	<y1>303.96317</y1>
+	<x2>220.1305</x2>
+	<y2>368.37616</y2>
+	<x3>246.42355</x3>
+	<y3>410.70834</y3>
+	<x4>327.3207</x4>
+	<y4>408.9592</y4>
+	<x5>357.2379</x5>
+	<y5>372.09985</y5>
+	<numOfAdjacent>5</numOfAdjacent>
+	<adj0>6</adj0>
+	<adj1>8</adj1>
+	<adj2>10</adj2>
+	<adj3>13</adj3>
+	<adj4>26</adj4>
+</polygon>
+
+<polygon>
+	<numOfVertices>6</numOfVertices>
+	<x0>468.01605</x0>
+	<y0>250.74303</y0>
+	<x1>427.13446</x1>
+	<y1>176.02853</y1>
+	<x2>367.60498</x2>
+	<y2>176.91806</y2>
+	<x3>348.3966</x3>
+	<y3>205.33633</y3>
+	<x4>371.42853</x4>
+	<y4>282.83105</y4>
+	<x5>437.46964</x5>
+	<y5>294.235</y5>
+	<numOfAdjacent>4</numOfAdjacent>
+	<adj0>5</adj0>
+	<adj1>6</adj1>
+	<adj2>10</adj2>
+	<adj3>20</adj3>
+</polygon>
+
+<polygon>
+	<numOfVertices>5</numOfVertices>
+	<x0>327.3207</x0>
+	<y0>408.9592</y0>
+	<x1>246.42355</x1>
+	<y1>410.70834</y1>
+	<x2>234.60092</x2>
+	<y2>458.9403</y2>
+	<x3>285.55923</x3>
+	<y3>500.00055</y3>
+	<x4>344.1399</x4>
+	<y4>470.73218</y4>
+	<numOfAdjacent>4</numOfAdjacent>
+	<adj0>7</adj0>
+	<adj1>8</adj1>
+	<adj2>11</adj2>
+	<adj3>26</adj3>
+</polygon>
+
+<polygon>
+	<numOfVertices>5</numOfVertices>
+	<x0>708.7053</x0>
+	<y0>480.20798</y0>
+	<x1>639.071</x1>
+	<y1>479.56915</y1>
+	<x2>617.2925</x2>
+	<y2>565.2405</y2>
+	<x3>645.63306</x3>
+	<y3>584.43005</y3>
+	<x4>725.7689</x4>
+	<y4>536.2836</y4>
+	<numOfAdjacent>5</numOfAdjacent>
+	<adj0>2</adj0>
+	<adj1>18</adj1>
+	<adj2>19</adj2>
+	<adj3>36</adj3>
+	<adj4>37</adj4>
+</polygon>
+
+<polygon>
+	<numOfVertices>7</numOfVertices>
+	<x0>744.41907</x0>
+	<y0>250.9685</y0>
+	<x1>728.8132</x1>
+	<y1>217.21454</y1>
+	<x2>666.7672</x2>
+	<y2>188.7632</y2>
+	<x3>605.59827</x3>
+	<y3>229.22768</y3>
+	<x4>606.8787</x4>
+	<y4>299.03445</y4>
+	<x5>650.7349</x5>
+	<y5>316.51993</y5>
+	<x6>728.2893</x6>
+	<y6>273.24765</y6>
+	<numOfAdjacent>4</numOfAdjacent>
+	<adj0>4</adj0>
+	<adj1>17</adj1>
+	<adj2>27</adj2>
+	<adj3>41</adj3>
+</polygon>
+
+<polygon>
+	<numOfVertices>5</numOfVertices>
+	<x0>815.8453</x0>
+	<y0>368.66913</y0>
+	<x1>760.51587</x1>
+	<y1>340.21133</y1>
+	<x2>710.72144</x2>
+	<y2>380.09015</y2>
+	<x3>736.20374</x3>
+	<y3>436.71893</y3>
+	<x4>793.7506</x4>
+	<y4>432.28244</y4>
+	<numOfAdjacent>5</numOfAdjacent>
+	<adj0>27</adj0>
+	<adj1>28</adj1>
+	<adj2>36</adj2>
+	<adj3>37</adj3>
+	<adj4>41</adj4>
+</polygon>
+
+<polygon>
+	<numOfVertices>5</numOfVertices>
+	<x0>605.59827</x0>
+	<y0>229.22768</y0>
+	<x1>547.96484</x1>
+	<y1>197.53151</y1>
+	<x2>497.05725</x2>
+	<y2>254.17682</y2>
+	<x3>560.4955</x3>
+	<y3>320.96875</y3>
+	<x4>606.8787</x4>
+	<y4>299.03445</y4>
+	<numOfAdjacent>3</numOfAdjacent>
+	<adj0>4</adj0>
+	<adj1>5</adj1>
+	<adj2>15</adj2>
+</polygon>
+
+<polygon>
+	<numOfVertices>8</numOfVertices>
+	<x0>673.7075</x0>
+	<y0>652.16736</y0>
+	<x1>645.63306</x1>
+	<y1>584.43005</y1>
+	<x2>617.2925</x2>
+	<y2>565.2405</y2>
+	<x3>558.09973</x3>
+	<y3>578.4797</y3>
+	<x4>527.4514</x4>
+	<y4>627.64453</y4>
+	<x5>547.39526</x5>
+	<y5>692.8232</y5>
+	<x6>594.1615</x6>
+	<y6>721.5239</y6>
+	<x7>657.4603</x7>
+	<y7>696.4387</y7>
+	<numOfAdjacent>8</numOfAdjacent>
+	<adj0>2</adj0>
+	<adj1>3</adj1>
+	<adj2>14</adj2>
+	<adj3>19</adj3>
+	<adj4>21</adj4>
+	<adj5>22</adj5>
+	<adj6>23</adj6>
+	<adj7>32</adj7>
+</polygon>
+
+<polygon>
+	<numOfVertices>6</numOfVertices>
+	<x0>750.40173</x0>
+	<y0>540.79785</y0>
+	<x1>725.7689</x1>
+	<y1>536.2836</y1>
+	<x2>645.63306</x2>
+	<y2>584.43005</y2>
+	<x3>673.7075</x3>
+	<y3>652.16736</y3>
+	<x4>734.4333</x4>
+	<y4>643.8223</y4>
+	<x5>762.20856</x5>
+	<y5>579.99</y5>
+	<numOfAdjacent>6</numOfAdjacent>
+	<adj0>14</adj0>
+	<adj1>18</adj1>
+	<adj2>23</adj2>
+	<adj3>24</adj3>
+	<adj4>25</adj4>
+	<adj5>37</adj5>
+</polygon>
+
+<polygon>
+	<numOfVertices>5</numOfVertices>
+	<x0>367.60498</x0>
+	<y0>176.91806</y0>
+	<x1>335.3827</x1>
+	<y1>103.58351</y1>
+	<x2>259.5742</x2>
+	<y2>117.227844</y2>
+	<x3>284.53613</x3>
+	<y3>196.08786</y3>
+	<x4>348.3966</x4>
+	<y4>205.33633</y4>
+	<numOfAdjacent>2</numOfAdjacent>
+	<adj0>10</adj0>
+	<adj1>12</adj1>
+</polygon>
+
+<polygon>
+	<numOfVertices>6</numOfVertices>
+	<x0>714.30725</x0>
+	<y0>755.3905</y0>
+	<x1>657.4603</x1>
+	<y1>696.4387</y1>
+	<x2>594.1615</x2>
+	<y2>721.5239</y2>
+	<x3>589.22546</x3>
+	<y3>795.2762</y3>
+	<x4>642.64655</x4>
+	<y4>838.208</y4>
+	<x5>700.3386</x5>
+	<y5>818.30457</y5>
+	<numOfAdjacent>4</numOfAdjacent>
+	<adj0>18</adj0>
+	<adj1>22</adj1>
+	<adj2>23</adj2>
+	<adj3>33</adj3>
+</polygon>
+
+<polygon>
+	<numOfVertices>6</numOfVertices>
+	<x0>594.1615</x0>
+	<y0>721.5239</y0>
+	<x1>547.39526</x1>
+	<y1>692.8232</y1>
+	<x2>462.60406</x2>
+	<y2>738.181</y2>
+	<x3>458.50024</x3>
+	<y3>761.42584</y3>
+	<x4>525.7128</x4>
+	<y4>816.92993</y4>
+	<x5>589.22546</x5>
+	<y5>795.2762</y5>
+	<numOfAdjacent>6</numOfAdjacent>
+	<adj0>18</adj0>
+	<adj1>21</adj1>
+	<adj2>31</adj2>
+	<adj3>32</adj3>
+	<adj4>33</adj4>
+	<adj5>35</adj5>
+</polygon>
+
+<polygon>
+	<numOfVertices>6</numOfVertices>
+	<x0>787.8982</x0>
+	<y0>686.9911</y0>
+	<x1>734.4333</x1>
+	<y1>643.8223</y1>
+	<x2>673.7075</x2>
+	<y2>652.16736</y2>
+	<x3>657.4603</x3>
+	<y3>696.4387</y3>
+	<x4>714.30725</x4>
+	<y4>755.3905</y4>
+	<x5>778.8321</x5>
+	<y5>733.5089</y5>
+	<numOfAdjacent>4</numOfAdjacent>
+	<adj0>18</adj0>
+	<adj1>19</adj1>
+	<adj2>21</adj2>
+	<adj3>25</adj3>
+</polygon>
+
+<polygon>
+	<numOfVertices>5</numOfVertices>
+	<x0>850.7364</x0>
+	<y0>501.3307</y0>
+	<x1>815.37036</x1>
+	<y1>486.31915</y1>
+	<x2>750.40173</x2>
+	<y2>540.79785</y2>
+	<x3>762.20856</x3>
+	<y3>579.99</y3>
+	<x4>846.07715</x4>
+	<y4>589.13257</y4>
+	<numOfAdjacent>4</numOfAdjacent>
+	<adj0>19</adj0>
+	<adj1>25</adj1>
+	<adj2>28</adj2>
+	<adj3>37</adj3>
+</polygon>
+
+<polygon>
+	<numOfVertices>6</numOfVertices>
+	<x0>846.07715</x0>
+	<y0>589.13257</y0>
+	<x1>762.20856</x1>
+	<y1>579.99</y1>
+	<x2>734.4333</x2>
+	<y2>643.8223</y2>
+	<x3>787.8982</x3>
+	<y3>686.9911</y3>
+	<x4>846.34094</x4>
+	<y4>664.4923</y4>
+	<x5>863.1607</x5>
+	<y5>609.3336</y5>
+	<numOfAdjacent>3</numOfAdjacent>
+	<adj0>19</adj0>
+	<adj1>23</adj1>
+	<adj2>24</adj2>
+</polygon>
+
+<polygon>
+	<numOfVertices>6</numOfVertices>
+	<x0>246.42355</x0>
+	<y0>410.70834</y0>
+	<x1>220.1305</x1>
+	<y1>368.37616</y1>
+	<x2>173.87221</x2>
+	<y2>369.06122</y2>
+	<x3>127.885345</x3>
+	<y3>445.7164</y3>
+	<x4>176.95062</x4>
+	<y4>492.15085</y4>
+	<x5>234.60092</x5>
+	<y5>458.9403</y5>
+	<numOfAdjacent>3</numOfAdjacent>
+	<adj0>11</adj0>
+	<adj1>13</adj1>
+	<adj2>34</adj2>
+</polygon>
+
+<polygon>
+	<numOfVertices>7</numOfVertices>
+	<x0>869.1859</x0>
+	<y0>298.45544</y0>
+	<x1>830.83203</x1>
+	<y1>254.09</y1>
+	<x2>744.41907</x2>
+	<y2>250.9685</y2>
+	<x3>728.2893</x3>
+	<y3>273.24765</y3>
+	<x4>760.51587</x4>
+	<y4>340.21133</y4>
+	<x5>815.8453</x5>
+	<y5>368.66913</y5>
+	<x6>854.2466</x6>
+	<y6>356.34955</y6>
+	<numOfAdjacent>4</numOfAdjacent>
+	<adj0>15</adj0>
+	<adj1>16</adj1>
+	<adj2>28</adj2>
+	<adj3>41</adj3>
+</polygon>
+
+<polygon>
+	<numOfVertices>7</numOfVertices>
+	<x0>902.3957</x0>
+	<y0>400.7654</y0>
+	<x1>854.2466</x1>
+	<y1>356.34955</y1>
+	<x2>815.8453</x2>
+	<y2>368.66913</y2>
+	<x3>793.7506</x3>
+	<y3>432.28244</y3>
+	<x4>815.37036</x4>
+	<y4>486.31915</y4>
+	<x5>850.7364</x5>
+	<y5>501.3307</y5>
+	<x6>894.5936</x6>
+	<y6>473.26593</y6>
+	<numOfAdjacent>4</numOfAdjacent>
+	<adj0>16</adj0>
+	<adj1>24</adj1>
+	<adj2>27</adj2>
+	<adj3>37</adj3>
+</polygon>
+
+<polygon>
+	<numOfVertices>6</numOfVertices>
+	<x0>323.2358</x0>
+	<y0>597.28564</y0>
+	<x1>274.7743</x1>
+	<y1>550.6736</y1>
+	<x2>208.943</x2>
+	<y2>569.11017</y2>
+	<x3>194.65492</x3>
+	<y3>639.59546</y3>
+	<x4>216.46332</x4>
+	<y4>665.30426</y4>
+	<x5>301.5253</x5>
+	<y5>660.21027</y5>
+	<numOfAdjacent>5</numOfAdjacent>
+	<adj0>7</adj0>
+	<adj1>9</adj1>
+	<adj2>30</adj2>
+	<adj3>38</adj3>
+	<adj4>40</adj4>
+</polygon>
+
+<polygon>
+	<numOfVertices>6</numOfVertices>
+	<x0>208.943</x0>
+	<y0>569.11017</y0>
+	<x1>171.60979</x1>
+	<y1>540.3039</y1>
+	<x2>92.263214</x2>
+	<y2>562.80896</y2>
+	<x3>80.22826</x3>
+	<y3>583.9689</y3>
+	<x4>106.7765</x4>
+	<y4>634.2516</y4>
+	<x5>194.65492</x5>
+	<y5>639.59546</y5>
+	<numOfAdjacent>2</numOfAdjacent>
+	<adj0>29</adj0>
+	<adj1>40</adj1>
+</polygon>
+
+<polygon>
+	<numOfVertices>7</numOfVertices>
+	<x0>462.60406</x0>
+	<y0>738.181</y0>
+	<x1>415.71408</x1>
+	<y1>689.9451</y1>
+	<x2>333.29312</x2>
+	<y2>700.3242</y2>
+	<x3>312.06793</x3>
+	<y3>767.18414</y3>
+	<x4>348.2758</x4>
+	<y4>820.87494</y4>
+	<x5>396.0525</x5>
+	<y5>821.66846</y5>
+	<x6>458.50024</x6>
+	<y6>761.42584</y6>
+	<numOfAdjacent>6</numOfAdjacent>
+	<adj0>9</adj0>
+	<adj1>22</adj1>
+	<adj2>32</adj2>
+	<adj3>35</adj3>
+	<adj4>38</adj4>
+	<adj5>39</adj5>
+</polygon>
+
+<polygon>
+	<numOfVertices>5</numOfVertices>
+	<x0>527.4514</x0>
+	<y0>627.64453</y0>
+	<x1>450.2249</x1>
+	<y1>626.1898</y1>
+	<x2>415.71408</x2>
+	<y2>689.9451</y2>
+	<x3>462.60406</x3>
+	<y3>738.181</y3>
+	<x4>547.39526</x4>
+	<y4>692.8232</y4>
+	<numOfAdjacent>5</numOfAdjacent>
+	<adj0>3</adj0>
+	<adj1>9</adj1>
+	<adj2>18</adj2>
+	<adj3>22</adj3>
+	<adj4>31</adj4>
+</polygon>
+
+<polygon>
+	<numOfVertices>7</numOfVertices>
+	<x0>642.64655</x0>
+	<y0>838.208</y0>
+	<x1>589.22546</x1>
+	<y1>795.2762</y1>
+	<x2>525.7128</x2>
+	<y2>816.92993</y2>
+	<x3>505.00092</x3>
+	<y3>857.5044</y3>
+	<x4>520.10614</x4>
+	<y4>915.28986</y4>
+	<x5>552.4967</x5>
+	<y5>930.7248</y5>
+	<x6>630.8845</x6>
+	<y6>897.4869</y6>
+	<numOfAdjacent>3</numOfAdjacent>
+	<adj0>21</adj0>
+	<adj1>22</adj1>
+	<adj2>35</adj2>
+</polygon>
+
+<polygon>
+	<numOfVertices>5</numOfVertices>
+	<x0>137.65851</x0>
+	<y0>328.04407</y0>
+	<x1>55.646866</x1>
+	<y1>363.35834</y1>
+	<x2>95.39598</x2>
+	<y2>445.4802</y2>
+	<x3>127.885345</x3>
+	<y3>445.7164</y3>
+	<x4>173.87221</x4>
+	<y4>369.06122</y4>
+	<numOfAdjacent>1</numOfAdjacent>
+	<adj0>26</adj0>
+</polygon>
+
+<polygon>
+	<numOfVertices>5</numOfVertices>
+	<x0>525.7128</x0>
+	<y0>816.92993</y0>
+	<x1>458.50024</x1>
+	<y1>761.42584</y1>
+	<x2>396.0525</x2>
+	<y2>821.66846</y2>
+	<x3>423.4405</x3>
+	<y3>862.41486</y3>
+	<x4>505.00092</x4>
+	<y4>857.5044</y4>
+	<numOfAdjacent>3</numOfAdjacent>
+	<adj0>22</adj0>
+	<adj1>31</adj1>
+	<adj2>33</adj2>
+</polygon>
+
+<polygon>
+	<numOfVertices>6</numOfVertices>
+	<x0>736.20374</x0>
+	<y0>436.71893</y0>
+	<x1>710.72144</x1>
+	<y1>380.09015</y1>
+	<x2>670.15015</x2>
+	<y2>373.87662</y2>
+	<x3>621.9568</x3>
+	<y3>445.12018</y3>
+	<x4>639.071</x4>
+	<y4>479.56915</y4>
+	<x5>708.7053</x5>
+	<y5>480.20798</y5>
+	<numOfAdjacent>6</numOfAdjacent>
+	<adj0>2</adj0>
+	<adj1>4</adj1>
+	<adj2>14</adj2>
+	<adj3>16</adj3>
+	<adj4>37</adj4>
+	<adj5>41</adj5>
+</polygon>
+
+<polygon>
+	<numOfVertices>6</numOfVertices>
+	<x0>793.7506</x0>
+	<y0>432.28244</y0>
+	<x1>736.20374</x1>
+	<y1>436.71893</y1>
+	<x2>708.7053</x2>
+	<y2>480.20798</y2>
+	<x3>725.7689</x3>
+	<y3>536.2836</y3>
+	<x4>750.40173</x4>
+	<y4>540.79785</y4>
+	<x5>815.37036</x5>
+	<y5>486.31915</y5>
+	<numOfAdjacent>6</numOfAdjacent>
+	<adj0>14</adj0>
+	<adj1>16</adj1>
+	<adj2>19</adj2>
+	<adj3>24</adj3>
+	<adj4>28</adj4>
+	<adj5>36</adj5>
+</polygon>
+
+<polygon>
+	<numOfVertices>6</numOfVertices>
+	<x0>333.29312</x0>
+	<y0>700.3242</y0>
+	<x1>301.5253</x1>
+	<y1>660.21027</y1>
+	<x2>216.46332</x2>
+	<y2>665.30426</y2>
+	<x3>192.28935</x3>
+	<y3>726.92126</y3>
+	<x4>252.29114</x4>
+	<y4>781.3178</y4>
+	<x5>312.06793</x5>
+	<y5>767.18414</y5>
+	<numOfAdjacent>6</numOfAdjacent>
+	<adj0>9</adj0>
+	<adj1>29</adj1>
+	<adj2>31</adj2>
+	<adj3>39</adj3>
+	<adj4>40</adj4>
+	<adj5>42</adj5>
+</polygon>
+
+<polygon>
+	<numOfVertices>6</numOfVertices>
+	<x0>312.06793</x0>
+	<y0>767.18414</y0>
+	<x1>252.29114</x1>
+	<y1>781.3178</y1>
+	<x2>220.07587</x2>
+	<y2>833.89</y2>
+	<x3>232.83923</x3>
+	<y3>872.858</y3>
+	<x4>301.0745</x4>
+	<y4>888.8987</y4>
+	<x5>348.2758</x5>
+	<y5>820.87494</y5>
+	<numOfAdjacent>3</numOfAdjacent>
+	<adj0>31</adj0>
+	<adj1>38</adj1>
+	<adj2>42</adj2>
+</polygon>
+
+<polygon>
+	<numOfVertices>6</numOfVertices>
+	<x0>194.65492</x0>
+	<y0>639.59546</y0>
+	<x1>106.7765</x1>
+	<y1>634.2516</y1>
+	<x2>85.158966</x2>
+	<y2>701.41693</y2>
+	<x3>165.62233</x3>
+	<y3>736.1238</y3>
+	<x4>192.28935</x4>
+	<y4>726.92126</y4>
+	<x5>216.46332</x5>
+	<y5>665.30426</y5>
+	<numOfAdjacent>4</numOfAdjacent>
+	<adj0>29</adj0>
+	<adj1>30</adj1>
+	<adj2>38</adj2>
+	<adj3>42</adj3>
+</polygon>
+
+<polygon>
+	<numOfVertices>5</numOfVertices>
+	<x0>728.2893</x0>
+	<y0>273.24765</y0>
+	<x1>650.7349</x1>
+	<y1>316.51993</y1>
+	<x2>670.15015</x2>
+	<y2>373.87662</y2>
+	<x3>710.72144</x3>
+	<y3>380.09015</y3>
+	<x4>760.51587</x4>
+	<y4>340.21133</y4>
+	<numOfAdjacent>5</numOfAdjacent>
+	<adj0>4</adj0>
+	<adj1>15</adj1>
+	<adj2>16</adj2>
+	<adj3>27</adj3>
+	<adj4>36</adj4>
+</polygon>
+
+<polygon>
+	<numOfVertices>5</numOfVertices>
+	<x0>252.29114</x0>
+	<y0>781.3178</y0>
+	<x1>192.28935</x1>
+	<y1>726.92126</y1>
+	<x2>165.62233</x2>
+	<y2>736.1238</y2>
+	<x3>152.97061</x3>
+	<y3>811.0835</y3>
+	<x4>220.07587</x4>
+	<y4>833.89</y4>
+	<numOfAdjacent>3</numOfAdjacent>
+	<adj0>38</adj0>
+	<adj1>39</adj1>
+	<adj2>40</adj2>
+</polygon>
+
+
+</polygons>
